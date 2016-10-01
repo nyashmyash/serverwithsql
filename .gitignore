@@ -1,0 +1,9 @@
+Client/Debug/
+Server/Debug/
+Debug/
+Release/
+ipch/
+/*.opensdf
+/*.pdb
+/*.suo
+/*.sdf
